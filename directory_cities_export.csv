@@ -1,0 +1,299 @@
+country_id,region,code,default_name,name:ar_EG,name:en_US
+EG,Cairo,MNT,"Nasr City","مدينة نصر","Nasr City"
+EG,Cairo,Maadi,Maadi,المعادي,Maadi
+EG,Cairo,HAL,Helwan,حلوان,Helwan
+EG,Cairo,MAY,"15 May","15 مايو","15 May"
+EG,Cairo,DSA,"Dar Al Salam","دار السلام ","Dar Al Salam"
+EG,Cairo,BAS,"Al Basatin",البساتين,"Al Basatin"
+EG,Cairo,ALT,"Al Tebin",التبين,"Al Tebin"
+EG,Cairo,KHA,"El Khalifa",الخليفة,"El Khalifa"
+EG,Cairo,SZE,"Al Sayeda Zainab","السيدة زينب","Al Sayeda Zainab"
+EG,Cairo,MAA,"Al Ma'sarah",المعصرة,"Al Ma'sarah"
+EG,Cairo,MOK,"El Mokattam",المقطم,"El Mokattam"
+EG,Cairo,TAS,"Tora Al Asmant 	","طرة الأسمنت‎	","Tora Al Asmant 	"
+EG,Cairo,HEL,Heliopolis,هليوبوليس,Heliopolis
+EG,Cairo,NOZ,"Al Nozha",النزهة,"Al Nozha"
+EG,Cairo,ESH,"Ain Shams 	","عين شمس","Ain Shams 	"
+EG,Cairo,MTR,"Al Matariyyah",المطرية,"Al Matariyyah"
+EG,Cairo,ENC,"East Nasr City","مدينة نصر شرق","East Nasr City"
+EG,Cairo,WNC,"West Nasr City","مدينة نصر غرب","West Nasr City"
+EG,Cairo,MRJ,"Al Marj","المرج ","Al Marj"
+EG,Cairo,SAF,"Al Salam First","السلام أول","Al Salam First"
+EG,Cairo,SA2,"Al Salam 2","السلام ثان","Al Salam 2"
+EG,Cairo,AZB,"Al Azbakeya",الأزبكية,"Al Azbakeya"
+EG,Cairo,MUS,"Al Muski","الموسكي ","Al Muski"
+EG,Cairo,WEI,"El Weili","الوايلي ","El Weili"
+EG,Cairo,BSH,"Bab El Sharia","باب الشعرية ","Bab El Sharia"
+EG,Giza,BOL,"Boulaq Al Dakrour","بولاق الدكرور‎	","Boulaq Al Dakrour"
+EG,Cairo,ABD,Abdeen,عابدين,Abdeen
+EG,Cairo,MNA,"Mansheya Nasir","منشأة ناصر","Mansheya Nasir"
+EG,Cairo,AMI,"Al Amiriyyah",الأميرية,"Al Amiriyyah"
+EG,Cairo,ZHA,"El Zawya El Hamraa","الزاوية الحمراء","El Zawya El Hamraa"
+EG,Cairo,HAZ,"HY El Zaytoun 	","حي الزيتون‎	","HY El Zaytoun 	"
+EG,Cairo,SAH,"El Sahel","الساحل ","El Sahel"
+EG,Cairo,SHA,"Al Sharabiyyah",الشرابية,"Al Sharabiyyah"
+EG,Cairo,HQO,"Hadayek Al Qobba","حدائق القبة","Hadayek Al Qobba"
+EG,Cairo,RFA,"Rod El Farag","روض الفرج ","Rod El Farag"
+EG,Cairo,AHE,"Ain Helwan 	","عين حلوان‎	","Ain Helwan 	"
+EG,Cairo,WHO,"Wadi Hof 	","وادي حوف‎	","Wadi Hof 	"
+EG,Cairo,HHE,"Hadayek Helwan 	","حدائق حلوان‎	","Hadayek Helwan 	"
+EG,Cairo,KOZ,"Kozzika 	","كوتسيكا‎	","Kozzika 	"
+EG,Cairo,TBA,"Tora El Balad","طرة البلد‎	","Tora El Balad"
+EG,Cairo,SMA,"Sakanat El Maadi 	","ثكنات المعادي‎	","Sakanat El Maadi 	"
+EG,Cairo,HMD,"Hadayek El Maadi 	","حدائق المعادي‎	","Hadayek El Maadi 	"
+EG,Cairo,GHA,"Ghamra 	",غمرة‎,"Ghamra 	"
+EG,Cairo,MSA,"Mansheyat al Sadr","منشية الصدر","Mansheyat al Sadr"
+EG,Cairo,KQO,"El Qobba Bridge","كوبري القبة‎	","El Qobba Bridge"
+EG,Cairo,SQO,"Saray El Qobba 	","سراي القبة","Saray El Qobba 	"
+EG,Cairo,HZA,"Helmeyat Al Zaytoun","حلمية الزيتون‎	","Helmeyat Al Zaytoun"
+EG,Cairo,NMA,"New El Marg 	","المرج الجديدة‎	","New El Marg 	"
+EG,Giza,MUN,"Al Munib",المنيب‎,"Al Munib"
+EG,Giza,FAI,"Faisal ",فيصل,"Faisal "
+EG,Giza,DOK,"Dokki ",الدقي,"Dokki "
+EG,Cairo,ATT,"Attaba 	",العتبة,"Attaba 	"
+EG,Cairo,MAZ,"Al Mazallat",المظلات,"Al Mazallat"
+EG,Qalyubia,KZE,"Kolleyyet El Zeraa 	","كلية الزراعة","Kolleyyet El Zeraa 	"
+EG,Qalyubia,SHB,"Shubra Al Khaymah","شبرا الخيمة","Shubra Al Khaymah"
+EG,Cairo,SHH,"Shubra 	",شبرا,"Shubra 	"
+EG,Cairo,AMA,"Alf Maskan 	","ألف مسكن‎	","Alf Maskan 	"
+EG,Cairo,ABB,"Abbassia ","العباسية‎	","Abbassia "
+EG,Cairo,ZAM,"Zamalek 	",الزمالك‎,"Zamalek 	"
+EG,Giza,KKA,"Kit Kat 	","الكيت كات‎	","Kit Kat 	"
+EG,Giza,IMB,Imbabah,إمبابة‎,Imbabah
+EG,Giza,rema,"Remaya Square ","ميدان الرماية","Remaya Square "
+EG,Giza,HRM,"Al Haram",الهرم,"Al Haram"
+EG,Giza,MAR,"El Maryouteia",المريوطية,"El Maryouteia"
+EG,Giza,TAL,"El Talbia",الطالبية,"El Talbia"
+EG,Giza,GIZ,Giza," الجيزة",Giza
+EG,Cairo,MAN,"Al Manial",المنيل,"Al Manial "
+EG,Giza,SZY,"Sheikh Zayed ","الشيخ زايد","Sheikh Zayed "
+EG,Cairo,MSQ,"Misr Al Qadimah","مصر القديمة ","Misr Al Qadimah"
+EG,Cairo,GSU,"Gesr Al Suez","جسر السويس","Gesr Al Suez"
+EG,Qalyubia,OBO,"El Obour ",العبور,"El Obour "
+EG,Cairo,SHR,"El Shorouk",الشروق,"El Shorouk"
+EG,Cairo,SHM,"Sheraton Al Matar","شيراتون المطار","Sheraton Al Matar"
+EG,Cairo,BAD,Badr,بدر,Badr
+EG,Cairo,REH,"Al Rehab",الرحاب,"Al Rehab"
+EG,Cairo,NCA,"New Cairo","القاهرة الجديدة","New Cairo"
+EG,Cairo,5ST,"The 5th Settlement","التجمع الخامس","The 5th Settlement"
+EG,Cairo,KAT,"El Katameya",القطامية,"El Katameya"
+EG,Cairo,6HY,"Al Hay Al Sades","الحي السادس","Al Hay Al Sades"
+EG,Cairo,7HY,"Al Hay Al Sabea","الحي السابع","Al Hay Al Sabea"
+EG,Cairo,ALM,Almazah,ألماظة,Almazah
+EG,Cairo,SBT,"Al Sabtiah",السبتية,"Al Sabtiah"
+EG,Cairo,RMS,Ramses,رمسيس,Ramses
+EG,Cairo,DEM,"El Demerdash",الدمرداش,"El Demerdash"
+EG,Cairo,GDC,"Garden City","جاردن سيتي","Garden City"
+EG,Cairo,GML,"El Gamaleya",الجمالية,"El Gamaleya"
+EG,Cairo,DRB,"El Darb El Ahmar","الدرب الأحمر","El Darb El Ahmar"
+EG,Cairo,MAD,Madinaty,مدينتي,Madinaty
+EG,Giza,OCT,"6 October","6 أكتوبر","6 October"
+EG,Giza,RWA,"Abou Rawash","أبو رواش","Abou Rawash"
+EG,Giza,WAR,"El Warraq",الوراق,"El Warraq"
+EG,Giza,MQA,"Monsha'et Al Qanatir","منشأة القناطر","Monsha'et Al Qanatir "
+EG,Giza,AUS,Ausim,أوسيم,Ausim
+EG,Giza,WBA,"Al Wahat Al Baharia","الواحات البحرية","Al Wahat Al Baharia"
+EG,Giza,BAS,Bashtil,بشتيل,Bashtil
+EG,Giza,BAR,"Al Barajil",البراجيل,"Al Barajil"
+EG,Giza,MOA,"Al Moatamadeyah",المعتمدية,"Al Moatamadeyah"
+EG,Giza,KER,Kirdasah,كرداسة,Kirdasah
+EG,Giza,NAH,Nahya,ناهيا,Nahya
+EG,Giza,SAF,"Saft Al Laban","صفط اللبن","Saft Al Laban"
+EG,Giza,ATF,Atfih,أطفيح,Atfih
+EG,Giza,AYY,"El Ayyat",العياط,"El Ayyat"
+EG,Giza,AGZ,"Al Agouzah",العجوزة,"Al Agouzah"
+EG,Giza,LEB,"Lebanon Square","ميدان لبنان","Lebanon Square"
+EG,Giza,MOK,"Mit Okba","ميت عقبة","Mit Okba"
+EG,Giza,MOH,Mohandessin,المهندسين,Mohandessin
+EG,Giza,OMR,"El Omraniya",العمرانية,"El Omraniya"
+EG,Giza,ALE,"Ard El Lewa","أرض اللواء","Ard El Lewa"
+EG,Giza,BDR,Badrshein,البدرشين,Badrshein
+EG,Giza,HWM,"El Hawamdeyya",الحوامدية,"El Hawamdeyya"
+EG,Giza,HAH,"Hadayek Al Ahram","حدائق الأهرام","Hadayek Al Ahram"
+EG,Giza,SAQ,Saqqara,سقارة,Saqqara
+EG,Giza,CUN,"Cairo University","جامعة القاهرة","Cairo University"
+EG,Qalyubia,SQN,"Shibin Al Qanatir","شبين القناطر","Shibin Al Qanatir"
+EG,Qalyubia,BNH,Benha,بنها,Benha
+EG,Qalyubia,TOK,Toukh,طوخ,Toukh
+EG,Qalyubia,KSH,"Kafr Shukr","كفر شكر","Kafr Shukr"
+EG,Qalyubia,QHA,Qaha,قها,Qaha
+EG,Qalyubia,QAL,Qalyub,قليوب,Qalyub
+EG,Qalyubia,QKH,"Al Qanatir Al Khayriyyah","القناطر الخيرية","Al Qanatir Al Khayriyyah"
+EG,Qalyubia,KHU,"Al Khusus",الخصوص,"Al Khusus"
+EG,Qalyubia,MUS,Musturad,مسطرد,Musturad
+EG,Qalyubia,BAH,Bahtim,بهتيم,Bahtim
+EG,Qalyubia,AZB,"Abu Zaabal","أبو زعبل","Abu Zaabal"
+EG,Qalyubia,KHA,"Al Khankah",الخانكة,"Al Khankah"
+EG,Suez,NewAdministrativeCapital,"New Administrative Capital","العاصمة الإدارية الجديدة","New Administrative Capital"
+EG,"Al Sharqia",10ofRamadan,"10 of Ramadan","العاشر من رمضان","10 of Ramadan"
+EG,Giza,SAFF,ElSaf,الصف,ElSaf
+EG,Alexandria,ABQ,"Abu Qir","ابو قير","Abu Qir"
+EG,Alexandria,IBH,"Al Ibrahimeyah",الابراهيمية,"Al Ibrahimeyah"
+EG,Alexandria,AZR,Azarita,الازاريطة,Azarita
+EG,Alexandria,ANF,Anfushi,الانفوشي,Anfushi
+EG,Alexandria,HAD,"Al Hadrah",الحضرة,"Al Hadrah"
+EG,Alexandria,DAK,"Al Dakhilah",الدخيلة,"Al Dakhilah"
+EG,Alexandria,SOY,"El Soyof",السيوف,"El Soyof"
+EG,Alexandria,SHA,"El Shatby",الشاطبي,"El Shatby"
+EG,Alexandria,AGM,ElAgamy,العجمى,ElAgamy
+EG,Alexandria,ASF,Asafra,العصافرة,Asafra
+EG,Alexandria,ATR,"El Atareen",العطارين,"El Atareen"
+EG,Alexandria,QAB,"Al Qabari",القبارى,"Al Qabari"
+EG,Alexandria,LAB,"El Labban",اللبان,"El Labban"
+EG,Alexandria,MAU,"Al Mamurah",المعمورة,"Al Mamurah"
+EG,Alexandria,MAX,"Al Max",الماكس,"Al Max"
+EG,Alexandria,MON,"AL Montaza ",المنتزه,"AL Montaza "
+EG,Alexandria,MAD,"El Mandara",المندرة,"El  Mandara"
+EG,Alexandria,MSH,"El Mansheya",المنشية,"El Mansheya"
+EG,Alexandria,WAR,"Al Wardiyan",الورديان,"Al Wardiyan"
+EG,Alexandria,BAH,"Bahary ",بحري,"Bahary "
+EG,Alexandria,GLM,Glim,جليم,Glim
+EG,Alexandria,GNC,Gianaclis,جناكليس,Gianaclis
+EG,Alexandria,BTA,Bitash,بيطاش,Bitash
+EG,Alexandria,AWD,Awayed,العويدات,Awayed
+EG,Alexandria,BOR," Borg Al Arab","برج العرب"," Borg Al Arab"
+EG,Alexandria,CMP,"Camp Chezar","كامب شيزار","Camp Chezar"
+EG,Alexandria,KHO,Khorshed,خورشيد,Khorshed
+EG,Alexandria,SID,"Sidi Kirayr","سيدى كرير","Sidi Kirayr"
+EG,Alexandria,GOM,"El Gomrok","حى الجمرك ","El Gomrok"
+EG,Alexandria,ARY,Amreya,"حى العامرية",Amreya
+EG,Alexandria,CLO,"Cleopatra El Soghra","حى كليوباترا","Cleopatra El Soghra"
+EG,Alexandria,MIA,Miami,"حى ميامي",Miami
+EG,Alexandria,RST,RasTin,"رأس التين ",RasTin
+EG,Alexandria,RSH,Roshdy,رشدى,Roshdy
+EG,Alexandria,ZNI,Zezenia,زيزينيا,Zezenia
+EG,Alexandria,SAB,"Saba Pasha","سابا باشا","Saba Pasha"
+EG,Alexandria,SAN,"San Stefano","سان ستيفانو","San Stefano"
+EG,Alexandria,SOT,Sporting,سبورتنج,Sporting
+EG,Alexandria,STN,Stanli,ستانلى,Stanli
+EG,Alexandria,SMO,Smouha,سموحة,Smouha
+EG,Alexandria,SGB,"Sidi Gabir","سيدى جابر","Sidi Gabir"
+EG,Alexandria,SBR,"Sidi Bishr","سيدى بشر","Sidi Bishr"
+EG,Alexandria,SAR,Safar,"حى صفر",Safar
+EG,Alexandria,VCT,Vectoria,فيكتوريا,Vectoria
+EG,Alexandria,KAZ,Karmoz,كرموز,Karmoz
+EG,Alexandria,KFA,"Kafr Abdu","كفر عبده","Kafr Abdu"
+EG,Alexandria,KAD,"Kom Ad Dikah","كوم الدكة","Kom Ad Dikah"
+EG,Alexandria,LON,Louran,لوران,Louran
+EG,Alexandria,MBK,"Moharam Bek","محرم بيك","Moharam Bek"
+EG,Alexandria,MAR,"Mahta Al Raml","محطة الرمل","Mahta Al Raml"
+EG,Alexandria,ABS,Abis,ابيس,Abis
+EG,Alexandria,HNV,Hanovil,الهانوفيل,Hanovil
+EG,Alexandria,BAS,Bacos,باكوس,Bacos
+EG,Alexandria,CTC,"City Center","سيتى سنتر","City Center"
+EG,Menoufia,QWS,Quwaysna,قويسنا,Quwaysna
+EG,Menoufia,TAL,Tala,تلا,Tala
+EG,Menoufia,BAS,"Birkat as SAB","بركة السبع","Birkat as SAB"
+EG,Menoufia,SBK,"Shebeen El-Kom","شبين الكوم","Shebeen El-Kom"
+EG,Menoufia,BAG,"El Bagour",الباجور,"El Bagour"
+EG,Menoufia,SHD,Shuhada,"الشهداء ",Shuhada
+EG,Menoufia,MIN,Minuf,منوف,Minuf
+EG,Menoufia,ASH,Ashmun,أشمون,Ashmun
+EG,Menoufia,SAD,"El Sadat City",السادات,"El Sadat City"
+EG,"Al Sharqia",BEL,Belbes,"بلبيس ",Belbes
+EG,"Al Sharqia",MAS,"Mashtul as Suq","مشتول السوق ","Mashtul as Suq"
+EG,"Al Sharqia",ABH,"Abou Hammad","أبو حماد","Abou Hammad"
+EG,"Al Sharqia",MIQ,"Minya Al Qamh","منيا القمح","Minya Al Qamh"
+EG,"Al Sharqia",ZAG,Zagazig,الزقازيق,Zagazig
+EG,"Al Sharqia",QYT,"Al Qanayat",القنايات,"Al Qanayat"
+EG,"Al Sharqia",HYA,Hihya,ههيا,Hihya
+EG,"Al Sharqia",QON,"Al Qorin",القرين,"Al Qorin"
+EG,"Al Sharqia",SAG,"As Saleheyah Al Gadidah","الصالحية الجديدة","As Saleheyah Al Gadidah"
+EG,"Al Sharqia",FQS,Faqus,فاقوس,Faqus
+EG,"Al Sharqia",AKR,"Abu Kibir",ابوكبير,"Abu Kibir"
+EG,"Al Sharqia",IBM,"Al Ibrahimeyah",الإبراهيمية,"Al Ibrahimeyah"
+EG,"Al Sharqia",DNM,"Dyarb Negm","ديرب نجم","Dyarb Negm"
+EG,"Al Sharqia",KFS,"Kafr Saqr","كفر صقر","Kafr Saqr"
+EG,"Al Sharqia",AWS,"Awlad Saqr","أولاد صقر","Awlad Saqr"
+EG,"Al Sharqia",HNY,"El Husseiniya",الحسينية,"El Husseiniya"
+EG,"Al Sharqia",MAO,"Monshaat Abou Omar","منشأة أبوعمر ","Monshaat Abou Omar"
+EG,"Al Sharqia",SAA,"San Al Hagar Al Bahreyah","صان الحجر البحري","San Al Hagar Al Bahreyah"
+EG,,AKM,Akhmem,أخميم,Akhmem
+EG,,DSM,"Dar El Salam Center","مركز  دار السلام","Dar El Salam Center"
+EG,,MIN,"Al Minshah",المنشاة,"Al Minshah"
+EG,,BYN,"Al Balyana",البلينا,"Al Balyana"
+EG,,MAG,"El Maragha",المراغة,"El Maragha"
+EG,,JHN,Juhaynah,جهينة,Juhaynah
+EG,,SOG,Sohag,سوهاج,Sohag
+EG,,TAH,Tahta,طهطا,Tahta
+EG,,TMA,Tima,طما,Tima
+EG,,GIR,Girga,جرجا,Girga
+EG,,SQT,Saqultah,ساقلتة,Saqultah
+EG,,ABT,"Abu Tesht","ابوتشت ","Abu Tesht"
+EG,,WQF,"Al Waqf",الوقف,"Al Waqf"
+EG,,FST,Farshut,فرشوط,Farshut
+EG,,NAH,"Nagaa Hammadi","نجع حمادى","Nagaa Hammadi"
+EG,,DIS,Dishna,دشنا,Dishna
+EG,,QNA,Qena,قنا,Qena
+EG,,QIT,Qift,قفط,Qift
+EG,,Qus,Qus,قوص,Qus
+EG,,NQD,Naqadah,نقادة,Naqadah
+EG,Luxor,LUC,"Luxor city","مدينة الأقصر","Luxor city"
+EG,Luxor,ZIA,Zainiya,"مركز الزينية",Zainiya
+EG,Luxor,QRH,"Al Qarnah",القرنة,"Al Qarnah"
+EG,Luxor,BAD,"Madinet Al Bayadeyah","مركز البياضية","Madinet Al Bayadeyah"
+EG,Luxor,TUD,TUD,"مركز الطود",TUD
+EG,Luxor,ART,Armant,"مركز ارمينت",Armant
+EG,Luxor,ESA,Esna,إسنا,Esna
+EG,Beheira,Rsh,Rasheed,رشيد,Rasheed
+EG,Beheira,Idk,Idku,أدكو,Idku
+EG,Beheira,Kfr,"Kafr El-Dawar","كفر الدوار","Kafr El-Dawar"
+EG,Beheira,Mad,El-Mahmoudeya,المحمودية,El-Mahmoudeya
+EG,Beheira,ABH,"Abu Hummus","أبو حمص","Abu Hummus"
+EG,Beheira,Rhm,"AR Rahmaniyyah",الرحمانية,"AR Rahmaniyyah"
+EG,Beheira,SHK,"Shubra Kheit","شبرا خيت","Shubra Kheit"
+EG,Beheira,DAM,Damanhour,دمنهور,Damanhour
+EG,Beheira,ITY,"Itay Al Barud","إيتاي البارود","Itay Al Barud"
+EG,Beheira,DJT,"Ad Dilinjat",الدلنجات,"Ad Dilinjat"
+EG,Beheira,HES,"Housh Eissa","حوش عيسي","Housh Eissa"
+EG,Beheira,KHD,"Kom Hamada","كوم حمادة","Kom Hamada"
+EG,Beheira,AMR,"Abu Al Matamir","أبو المطامير","Abu Al Matamir"
+EG,Beheira,NBY,"New Nubariya","النوبارية الجديدة","New Nubariya"
+EG,Beheira,NAT,"Natrn Valley","وادى النطرون","Natrn Valley"
+EG,,MIG,"Mit Ghamr","ميت غمر","Mit Ghamr"
+EG,,Aga,Aga,أجا,Aga
+EG,,MAS,Mansoura,المنصورة,Mansoura
+EG,,TAL,Talkha,طلخا,Talkha
+EG,,AST,"As Sinaytah",السنيطه,"As Sinaytah"
+EG,,BSH,Bishla,بشلا,Bishla
+EG,,KAN,"Kafr Abu Nabhan","كفر ابونيهان","Kafr Abu Nabhan"
+EG,,TUM,Tunnamil,طنامل,Tunnamil
+EG,,MNS,"Minyat Sandub",سندوب,"Minyat Sandub"
+EG,,MKM,"Mit Khamees","ميت خميس","Mit Khamees"
+EG,Suez,SEZ,Suez,السويس,Suez
+EG,Suez,ARB,"Al Arbaein",الأربعين,"Al Arbaein"
+EG,Suez,ATQ,Attaqa,عتاقة,Attaqa
+EG,Suez,GNN,"Al Ganaien",الجناين,"Al Ganaien"
+EG,Suez,FSL,Faisal,فيصل,Faisal
+EG,Suez,SKH,"Al Ain Al Sokhna","العين السخنة","Al Ain Al Sokhna"
+EG,Ismailia,ISM,Ismailia,الإسماعيلية,Ismailia
+EG,Ismailia,TLK,"Tell El Kebir","التل الكبير","Tell El Kebir"
+EG,Ismailia,FAI,Faied,فايد,Faied
+EG,Ismailia,QNS,"Qantara Sharq","قنطرة شرق","Qantara Sharq"
+EG,Ismailia,QNG,"Qantara Gharb","قنطرة غرب","Qantara Gharb"
+EG,Ismailia,ASW,"Abu Suwir","أبو صوير","Abu Suwir"
+EG,Ismailia,KAS,El-Kasasin,القصاصين,El-Kasasin
+EG,,SHP,"Sharq Port Said","شرق بورسعيد","Sharq Port Said"
+EG,,GHP,"Ganoub Port Said","جنوب بورسعيد","Ganoub Port Said"
+EG,,POF,"Port Fuad",بورفؤاد,"Port Fuad"
+EG,,DAW,"Al Dawahy",الضواحي,"Al Dawahy"
+EG,,MON,"Al Monakh",المناخ,"Al Monakh"
+EG,,ZOH,"Al Zohour",الزهور,"Al Zohour"
+EG,,ARA,"Al Arab",العرب,"Al Arab"
+EG,,MGH,Maghagha,مغاغة,Maghagha
+EG,,BNM,"Bani Mazar","بني مزار","Bani Mazar"
+EG,,MTY,Matay,مطاي,Matay
+EG,,SAM,Samalut,سمالوط,Samalut
+EG,,MIN,Minya,المنيا,Minya
+EG,,ABQ,"Abu Qurqas","أبو قرقاص","Abu Qurqas"
+EG,,MLW,Mallawi,ملوي,Mallawi
+EG,,DMW,"Dayr Mawas","دير مواس","Dayr Mawas"
+EG,,IDW,"El Idwa",العدوة,"El Idwa"
+EG,,BSW,"Beni Suef","بني سويف","Beni Suef"
+EG,,WAS,"Al Wasta",الواسطى,"Al Wasta"
+EG,,NAS,Nasser,ناصر,Nasser
+EG,,IHN,Ihnasya,إهناسيا,Ihnasya
+EG,,BIB,Biba,ببا,Biba
+EG,,SMS,Sumusta,سمسطا,Sumusta
+EG,,FAS,"Al Fashn",الفشن,"Al Fashn"
+EG,,NBN,"New Bani Suef","بني سويف الجديدة","New Bani Suef"
